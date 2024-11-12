@@ -1,0 +1,7 @@
+Movie Ticket Report
+**************************************************************
+Movie Name:		Oppenheimer
+Movie Ticket price:	R100.0
+Number OF Tickets:	10
+Toatl Ticket Price:	R1140.0
+************************************************************
