@@ -1,7 +1,6 @@
-Movie Ticket Report
 **************************************************************
-Movie Name:		Oppenheimer
+Movie Name:		Damsel
 Movie Ticket price:	R100.0
-Number OF Tickets:	10
-Toatl Ticket Price:	R1140.0
+Number OF Tickets:	4
+Toatl Ticket Price:	R455.99999999999994
 ************************************************************

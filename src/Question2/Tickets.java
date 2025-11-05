@@ -48,7 +48,7 @@ public class Tickets extends javax.swing.JFrame {
 
         jLabel4.setText("TICKET REPORT:");
 
-        cmbMovieSelcetion.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Napoleon", "Oppenheimer", "Damsel" }));
+        cmbMovieSelcetion.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Napoleon", "Oppenheimer", "Damsel", "hiu" }));
         cmbMovieSelcetion.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 cmbMovieSelcetionActionPerformed(evt);
@@ -186,6 +186,7 @@ public class Tickets extends javax.swing.JFrame {
         
         //Stores values into variables
         String movie = (String)cmbMovieSelcetion.getSelectedItem();
+        
 
         double price = Double.parseDouble(edtPrice.getText());
         

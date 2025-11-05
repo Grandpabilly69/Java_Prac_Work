@@ -7,7 +7,7 @@ public class MovieTickets implements IMovieTickets{
     public double CalculateTotalTicketPrice(int numberOfTickets, double ticketPrice) {
         return (numberOfTickets * ticketPrice)*1.14;
     }
-
+ 
     //Validates object to make sure everthing has valid inputs
     @Override
     public boolean ValidateData(MovieTicketData movieTicketData) {
